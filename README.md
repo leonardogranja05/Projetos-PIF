@@ -11,7 +11,7 @@ Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido pa
  - Leonardo Granja
  - Thiago Cunha
 
-## 🛠Funcionalidades 🛠️
+## Funcionalidades 🛠️
 
 - (A decidir)
 - (A decidir)
