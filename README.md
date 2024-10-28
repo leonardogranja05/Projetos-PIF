@@ -9,7 +9,7 @@ Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido pa
  ## Membros do Grupo
 
  - Leonardo Granja
- - [Foto Leo](https://drive.google.com/file/d/1kzTmMBpktimzk6fy12gMrKnUCV_u327t/view?usp=sharing)
+ - ![Foto Leo](https://drive.google.com/file/d/1kzTmMBpktimzk6fy12gMrKnUCV_u327t/view?usp=sharing)
  - Thiago Cunha
 
 ## Funcionalidades
