@@ -1,6 +1,6 @@
 ## Jogo ** 🎮
 
-Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido para a disciplina de *Programação Imperativa Funcional*, como parte do curso de *Sistemas de Informação* na *CESAR SCHOOL*.
+Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido para a disciplina de *Programação Imperativa Funcional 2024.2*, como parte do curso de *Sistemas de Informação* na *CESAR SCHOOL*.
 
 ## Descrição do Jogo 🎮
 
@@ -8,8 +8,8 @@ Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido pa
 
  ## Membros do Grupo 👥
 
- - Leonardo Granja
- - Thiago Cunha
+ - Leonardo Granja (leonardogranja05)
+ - Thiago Cunha (Th015)
 
 ## Funcionalidades 🛠️
 
