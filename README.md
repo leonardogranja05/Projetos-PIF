@@ -1,4 +1,4 @@
-# Jogo **
+## 🎮Jogo **
 
 Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido para a disciplina de *Programação Imperativa Funcional*, como parte do curso de *Sistemas de Informação* na *CESAR SCHOOL*.
 
