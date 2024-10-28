@@ -25,6 +25,3 @@ Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido pa
 - (A decidir)
 
 ## Instalação
-
-1. Clone o repositório:
-   git clone https://github.com/leonardogranja05/Projetos-PIF/tree/main
