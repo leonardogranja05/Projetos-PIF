@@ -23,5 +23,3 @@ Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido pa
 - (A decidir)
 - C
 - (A decidir)
-
-## Instalação
