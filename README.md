@@ -6,6 +6,11 @@ Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido pa
 
  (A decidir) é um jogo de exploração em estilo (A decidir). O jogo foi desenvolvido em (A decidir) usando C como linguagem de programação.
 
+ ## Membros do Grupo
+
+ - Leonardo Granja
+ - Thiago Cunha
+
 ## Funcionalidades
 
 - (A decidir)
