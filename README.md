@@ -1,10 +1,10 @@
-## Jogo ** 🎮
+## Jogo SpaceShip 🎮
 
-Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido para a disciplina de *Programação Imperativa Funcional 2024.2*, como parte do curso de *Sistemas de Informação* na *CESAR SCHOOL*.
+Bem-vindo ao repositório do jogo  *SpaceShip*! Este projeto foi desenvolvido para a disciplina de *Programação Imperativa Funcional 2024.2*, como parte do curso de *Sistemas de Informação* na *CESAR SCHOOL*.
 
 ## Descrição do Jogo 🎮
 
- (A decidir) é um jogo de exploração em estilo (A decidir). O jogo foi desenvolvido em (A decidir) usando C como linguagem de programação.
+ SpaceShip é um jogo de exploração em estilo *runner*. O jogo foi desenvolvido em (A decidir) usando C como linguagem de programação.
 
  ## Membros do Grupo 👥
 
@@ -20,6 +20,6 @@ Bem-vindo ao repositório do jogo  (A decidir)! Este projeto foi desenvolvido pa
 
 ## Tecnologias Utilizadas 💻
 
-- (A decidir)
+- GCC
 - C
 - (A decidir)
