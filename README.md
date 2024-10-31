@@ -13,10 +13,10 @@ Bem-vindo ao repositório do jogo  *SpaceShip*! Este projeto foi desenvolvido pa
 
 ## Funcionalidades 🛠️
 
-- (A decidir)
-- (A decidir)
-- (A decidir)
-- (A decidir)
+- Controle Simples
+- Sistema de pontuação
+- Obstáculos aleatórios a cada "start"
+- Cenário dinâmico
 
 ## Tecnologias Utilizadas 💻
 
