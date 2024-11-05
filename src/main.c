@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>  // Biblioteca para funções de entrada/saída de console (somente Windows)
-#include <windows.h> // Biblioteca para usar Sleep no Windows
-#include <time.h>   // Para controle de tempo e geração de números aleatórios
+#include <conio.h>
+#include <windows.h>
+#include <time.h>
 
 #define LARGURA 30
 #define ALTURA 20
@@ -10,16 +10,11 @@
 #define PULO -3
 #define ESPINHOS_FREQUENCIA 5
 
-// Posições da nave
 int nave_x = 5, nave_y = ALTURA / 2;
-
-// Posição dos espinhos
 int espinhos_x[LARGURA];
 int espinhos_y[LARGURA];
-
 int pontuacao = 0;
 
-// Função para inicializar o jogo
 void inicializar() {
     srand(time(0));
     for (int i = 0; i < LARGURA; i++) {
@@ -28,19 +23,18 @@ void inicializar() {
     }
 }
 
-// Função para desenhar o jogo
 void desenhar() {
     system("cls");
 
     for (int y = 0; y < ALTURA; y++) {
         for (int x = 0; x < LARGURA; x++) {
             if (x == nave_x && y == nave_y) {
-                printf("A");  // A nave
+                printf("A");
             } else {
                 int ehEspinho = 0;
                 for (int i = 0; i < LARGURA; i++) {
                     if (x == espinhos_x[i] && y == espinhos_y[i]) {
-                        printf("^");  // Espinho
+                        printf("^");
                         ehEspinho = 1;
                         break;
                     }
@@ -53,7 +47,6 @@ void desenhar() {
     printf("Pontuação: %d\n", pontuacao);
 }
 
-// Função para atualizar o estado do jogo
 void atualizar() {
     nave_y += GRAVIDADE;
 
@@ -76,7 +69,6 @@ void atualizar() {
     }
 }
 
-// Função principal do jogo
 void jogar() {
     inicializar();
     while (1) {
@@ -84,9 +76,9 @@ void jogar() {
         atualizar();
         if (_kbhit()) {
             char tecla = _getch();
-            if (tecla == ' ') nave_y += PULO;  // Pular ao pressionar espaço
+            if (tecla == ' ') nave_y += PULO;
         }
-        Sleep(100);  // Controla a velocidade do jogo (100 milissegundos)
+        Sleep(100);
     }
 }
 
