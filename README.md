@@ -4,7 +4,7 @@ Bem-vindo ao repositório do jogo  *SpaceShip*! Este projeto foi desenvolvido pa
 
 ## Descrição do Jogo 🎮
 
- SpaceShip é um jogo de exploração em estilo *runner*. O jogo foi desenvolvido em (A decidir) usando C como linguagem de programação.
+ No SpaceShip, você controla uma nave espacial que voa sem parar através de uma galáxia repleta de perigos! A cada momento, novos espinhos cósmicos surgem no caminho, testando a habilidade e os reflexos do jogador. Para manter a nave na rota e evitar colisões, é preciso utilizar a tecla espaço para ajustar a altura, mantendo-se atento ao timing dos desvios. Com cada toque, a nave ganha uma leve elevação, mas, sem um controle preciso, o perigo pode estar a um movimento de distância.
 
  ## Membros do Grupo 👥
 
