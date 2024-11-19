@@ -23,4 +23,5 @@ Bem-vindo ao repositório do jogo  SpaceShip! Este projeto foi desenvolvido para
 
 - GCC
 - C
-- (A decidir)
+- Biblioteca Cli-lib
+
